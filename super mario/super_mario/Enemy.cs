@@ -96,6 +96,7 @@ namespace super_mario
                         stomped = true;
                         stomp.Play();
                         player.Velocity = new Vector2(player.Velocity.X, -3);
+                        player.score += 100;
                     }
                     else if (player.SRect.Left <= this.SRect.Left && prevSPlayer.Left <= prevEnemy.Left)
                     {
@@ -105,7 +106,7 @@ namespace super_mario
                     else if (player.SRect.Right >= this.SRect.Right && prevSPlayer.Right >= prevEnemy.Right)
                     {
                         player.Position = new Vector2(prevSPlayer.Left, player.Position.Y - velocity.Y);
-                        player.end = true;
+                        player.Health = 0;
                     }
                     
                 }
@@ -119,15 +120,16 @@ namespace super_mario
                         stomped = true;
                         stomp.Play();
                         player.Velocity = new Vector2(player.Velocity.X, -3);
+                        player.score += 100;
                     }
                     else if (player.BRect.Left <= this.SRect.Left && prevBPlayer.Left <= prevEnemy.Left)
                     {
-                        player.Position = new Vector2(prevBPlayer.Left, player.Position.Y - velocity.Y);
+                        player.Position = new Vector2(prevBPlayer.Left, player.Position.Y);
                         player.transition = true;
                     }
                     else if (player.BRect.Right >= this.SRect.Right && prevBPlayer.Right >= prevEnemy.Right)
                     {
-                        player.Position = new Vector2(prevBPlayer.Left, player.Position.Y - velocity.Y);
+                        player.Position = new Vector2(prevBPlayer.Left, player.Position.Y);
                         player.transition = true;
                     }
                 }
