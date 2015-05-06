@@ -1,0 +1,258 @@
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\Oliver Nilsson\documents\visual studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\Oliver Nilsson\Documents\Visual Studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\Oliver Nilsson\Documents\Visual Studio 2013\Projects\super mario\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 24.2\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 27.2\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Objects\mushroom.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Objects\mushroom.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 3.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Objects\mushroom.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigMario.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\overworld.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Enemy\enemy1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Player\player1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigMario.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Objects\mushroom.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Enemy\enemy1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\overworld.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Enemy.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\breakblock.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\bigJump.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\smallJump.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerup.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerupappears.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\timeFont.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\timeWarning.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Load\Enemy.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\timeFont.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\breakblock.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\bigJump.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\smallJump.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerup.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerupappears.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 6.3\super mario\super_mario\bin\x86\Debug\Content\Sound\timeWarning.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Enemy.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigMario.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\mushroom.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Enemy\enemy1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\timeFont.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\overworld.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\breakblock.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\bigJump.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\smallJump.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerup.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerupappears.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\timeWarning.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stomp.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\diesound.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\gameover.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Menu.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Enemy.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Player.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Splash.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\null.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\fade.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\TileSets\tileSet1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigMario.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\mushroom.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Enemy\enemy1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\Font1.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\timeFont.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\overworld.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\breakblock.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\bigJump.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\smallJump.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerup.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\powerupappears.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\timeWarning.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stomp.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\diesound.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\gameover.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\flagpole.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stage_clear.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\flagpole.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stage_clear.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stageClear.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\poleflag.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\castleflag.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\poleflag.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\castleflag.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stageClear.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\smallMario.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\smallLuigi.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigLuigi.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\starMan.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\InvertColor.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\star.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\smallMario.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\smallLuigi.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigLuigi.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\starMan.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Objects\star.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\InvertColor.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\higherImage.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\lowerImage.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\volumeBr.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\volumeInd.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\mlTexture.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\selector.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\higherImage.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\lowerImage.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\volumeBr.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\Volume\volumeInd.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\mlTexture.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Options\selector.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\coin.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\background.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\endFont.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\End.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Load\End.cme
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\background.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\endFont.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\coin.xnb

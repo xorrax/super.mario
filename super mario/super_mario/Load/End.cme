@@ -1,0 +1,11 @@
+﻿Load=[End]
+
+Load=[Align][Axis][Font][Animation]
+[Center][2][MenuFont][Fade]
+
+Load=[Item][LinkType][LinkID]
+[New Game][Screen][GamePlayScreen]
+[Mainmenu][Screen][TitleScreen]
+[Exit][Exit][End]
+
+EndLoad=[End]
