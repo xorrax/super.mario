@@ -133,6 +133,8 @@ namespace super_mario
 
         public override void Update(GameTime gameTime, InputManager input, Layer layer)
         {
+            if (position.Y > ScreenManager.Instance.Dimensions.Y)
+                health = 0;
 
             if (health == 0)
             {
@@ -185,7 +187,7 @@ namespace super_mario
                 //Movement + sprite
                 moveAnimation.IsActive = true;
 
-                if (input.KeyPressed(Keys.W, Keys.Up) && jumping == true)
+                if (input.KeyPressed(Keys.W, Keys.Up) && jumping == true && activateGravity == false)
                 {
                     jumping = false;
                     if (walkingRight == true)
@@ -205,13 +207,18 @@ namespace super_mario
                 if (input.KeyDown(Keys.Right, Keys.D))
                 {
                     moveAnimation.CurrentFrame = new Vector2(moveAnimation.CurrentFrame.X, 0);
+                    if (position.X >= Camera.Instance.Position.X + ScreenManager.Instance.Dimensions.X / 2)
+                    {
+                        Camera.Instance.SetCameraPoint(new Vector2(position.X, ScreenManager.Instance.Dimensions.Y / 2));
+                    }
                     velocity.X = moveSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
                     walkingRight = true;
                     walkingLeft = false;
                 }
-                else if (input.KeyDown(Keys.Left, Keys.A))
+                else if (input.KeyDown(Keys.Left, Keys.A) && position.X > Camera.Instance.Position.X)
                 {
                     moveAnimation.CurrentFrame = new Vector2(moveAnimation.CurrentFrame.X, 1);
+                    //Camera.Instance.SetCameraPoint(new Vector2(Camera.Instance.Position.X, ScreenManager.Instance.Dimensions.Y / 2));
                     velocity.X = -moveSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
                     walkingLeft = true;
                     walkingRight = false;
@@ -261,6 +268,7 @@ namespace super_mario
                 //Transition
                 if (transition == true)
                 {
+                    bigMario = !bigMario;
                     transitionTimer += (float)gameTime.ElapsedGameTime.Milliseconds;
                     if (lastTransition != transition)
                         powerup.Play();
@@ -324,7 +332,7 @@ namespace super_mario
 
 
                 lastTransition = transition;
-                Camera.Instance.SetCameraPoint(new Vector2(position.X, ScreenManager.Instance.Dimensions.Y / 2));
+                
             }
             //On flag-------------------
             else if (onFlag == true)
@@ -394,7 +402,8 @@ namespace super_mario
                     else if (bigMario == false)
                     {
                         Vector2 direction = flagWP.Peek() - position;
-                        direction.Normalize();
+                        if(direction.X != 0 && direction.Y != 0)
+                            direction.Normalize();
                         velocity = Vector2.Multiply(direction, speed);
                         position += velocity;
                         if (distanceToWP(position) < speed)

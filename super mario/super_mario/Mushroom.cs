@@ -72,6 +72,7 @@ namespace super_mario
                     player.bigMario = true;
                     removed = true;
                     player.transition = true;
+                    player.score += 100;
                 }
 
                 
