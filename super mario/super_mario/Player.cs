@@ -501,9 +501,9 @@ namespace super_mario
 
         public void FlagMovement()
         {
-            flagWP.Enqueue(new Vector2(58 * 16 - 5, 12*16));
-            flagWP.Enqueue(new Vector2(60 * 16, 13 * 16));
-            flagWP.Enqueue(new Vector2(63 * 16, 13 * 16));
+            flagWP.Enqueue(new Vector2(64 * 16 - 5, 12*16));
+            flagWP.Enqueue(new Vector2(66 * 16, 13 * 16));
+            flagWP.Enqueue(new Vector2(69 * 16, 13 * 16));
         }
 
         public float distanceToWP(Vector2 pos)
