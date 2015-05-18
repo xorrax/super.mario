@@ -187,7 +187,7 @@ namespace super_mario
                 //Movement + sprite
                 moveAnimation.IsActive = true;
 
-                if (input.KeyPressed(Keys.W, Keys.Up) && jumping == true && activateGravity == false)
+                if (input.KeyPressed(Keys.W, Keys.Up) && activateGravity == false)
                 {
                     jumping = false;
                     if (walkingRight == true)
@@ -495,6 +495,10 @@ namespace super_mario
                     moveAnimation.Draw(spriteBatch, myEffect);
                 }
             }
+            if (activateGravity == true)
+                spriteBatch.DrawString(scoreFont, "True", new Vector2(Camera.Instance.Position.X + 16 * 5, 5), Color.White);
+            else
+                spriteBatch.DrawString(scoreFont, "False", new Vector2(Camera.Instance.Position.X + 16 * 5, 5), Color.White);
             spriteBatch.DrawString(scoreFont, "Score: " + score.ToString(), new Vector2(Camera.Instance.Position.X
                 + 16 * 11, 5), Color.White);
         }

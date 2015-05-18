@@ -39,7 +39,7 @@ namespace super_mario
 
         public FloatRect BRect
         {
-            get { return new FloatRect(position.X, position.Y, 16, 32); }
+            get { return new FloatRect(position.X, position.Y + 4, 16, 28); }
         }
 
         public Vector2 PrevPosition

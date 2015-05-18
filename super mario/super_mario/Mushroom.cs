@@ -67,12 +67,23 @@ namespace super_mario
             }
             else if (spawned == true)
             {
-                if(this.SRect.Intersects(player.SRect))
+                if (player.bigMario == false)
                 {
-                    player.bigMario = true;
-                    removed = true;
-                    player.transition = true;
-                    player.score += 100;
+                    if (this.SRect.Intersects(player.SRect))
+                    {
+                        player.bigMario = true;
+                        removed = true;
+                        player.transition = true;
+                        player.score += 100;
+                    }
+                }
+                else
+                {
+                    if (this.SRect.Intersects(player.BRect))
+                    {
+                        player.score += 100;
+                        removed = true;
+                    }
                 }
 
                 

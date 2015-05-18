@@ -212,11 +212,21 @@ namespace super_mario
                     player.Position += velocity;
                     player.SyncTilePosition = true;
                 }
-
-                if (player.SRect.Right < rect.Left || player.SRect.Left > rect.Right || player.SRect.Bottom != rect.Top)
+                if (player.bigMario == false)
                 {
-                    playerOnTile = false;
-                    player.ActivateGravity = true;
+                    if (player.SRect.Right < rect.Left || player.SRect.Left > rect.Right || player.SRect.Bottom != rect.Top)
+                    {
+                        playerOnTile = false;
+                        player.ActivateGravity = true;
+                    }
+                }
+                else if (player.bigMario == true)
+                {
+                    if (player.BRect.Right < rect.Left || player.BRect.Left > rect.Right || player.BRect.Bottom != rect.Top)
+                    {
+                        playerOnTile = false;
+                        player.ActivateGravity = true;
+                    }
                 }
             }
             //Castle
