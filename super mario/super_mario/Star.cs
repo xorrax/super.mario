@@ -110,12 +110,23 @@ namespace super_mario
                         dirTimer = 0;
                     }
                 }
-
-                if (this.SRect.Intersects(player.SRect))
+                if (player.bigMario == false)
                 {
-                    player.starMan = true;
-                    removed = true;
-                    player.transition = true;
+                    if (this.SRect.Intersects(player.SRect))
+                    {
+                        player.starMan = true;
+                        removed = true;
+                        player.transition = true;
+                    }
+                }
+                else if (player.bigMario == true)
+                {
+                    if (this.SRect.Intersects(player.BRect))
+                    {
+                        player.starMan = true;
+                        removed = true;
+                        player.transition = true;
+                    }
                 }
 
 

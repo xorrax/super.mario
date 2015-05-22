@@ -38,3 +38,4 @@ Content\Fonts\scoreFont.xnb
 Content\Sound\coin.xnb
 Content\background.xnb
 Content\Fonts\endFont.xnb
+Content\Sound\starTheme.xnb

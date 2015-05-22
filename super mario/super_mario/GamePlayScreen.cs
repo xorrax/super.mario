@@ -13,7 +13,8 @@ namespace super_mario
 {
     class GamePlayScreen : GameScreen
     {
-        SoundEffect musicTheme, timeWarning;
+        SoundEffect musicTheme, timeWarning, starTheme, dieSound;
+        SoundEffectInstance starThemeInstance;
         SoundEffectInstance musicYes;
         Player player;
         Map map;
@@ -40,6 +41,9 @@ namespace super_mario
             musicTheme = this.content.Load<SoundEffect>("Sound/overworld");
             musicYes = musicTheme.CreateInstance();
             timeWarning = this.content.Load<SoundEffect>("Sound/timeWarning");
+            starTheme = this.content.Load<SoundEffect>("Sound/starTheme");
+            dieSound = this.content.Load<SoundEffect>("Sound/dieSound");
+            starThemeInstance = starTheme.CreateInstance();
             player = new Player();
             map = new Map();
             layer = new Layer();
@@ -82,6 +86,8 @@ namespace super_mario
             }
             if (player.end == true)
             {
+
+                musicYes.Pause();
                 loseTimer += (float)gameTime.ElapsedGameTime.TotalSeconds;
 
                 if (loseTimer >= 2)
@@ -122,10 +128,22 @@ namespace super_mario
             if (gameTimer >= 0 && player.onFlag == false)
                 gameTimer -= (float)gameTime.ElapsedGameTime.TotalSeconds;
 
-            if (gameTimer == 0)
-                player.Health = 0;
+            if (gameTimer <= 0)
+            {
+                musicYes.Pause();
+                player.end = true;
+            }
 
-            
+            if (player.end == true)
+                musicYes.Pause();
+
+            if (player.starMan == true)
+            {
+                musicYes.Pause();
+                starThemeInstance.Play();
+            }
+            else
+                starThemeInstance.Pause();
 
             timerPos = new Vector2(Camera.Instance.Position.X + 5, 5);
 

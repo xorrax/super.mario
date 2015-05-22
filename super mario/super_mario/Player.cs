@@ -140,6 +140,10 @@ namespace super_mario
             {
                 end = true;
             }
+
+            if (end == true)
+                dieSound.Play();
+
             if(prevML != OptionsScreen.mlValue)
             {
                 if(OptionsScreen.mlValue == false)
@@ -268,7 +272,9 @@ namespace super_mario
                 //Transition
                 if (transition == true)
                 {
-                    bigMario = !bigMario;
+                    if(starMan == false)
+                        bigMario = !bigMario;
+
                     transitionTimer += (float)gameTime.ElapsedGameTime.Milliseconds;
                     if (lastTransition != transition)
                         powerup.Play();
@@ -402,8 +408,8 @@ namespace super_mario
                     else if (bigMario == false)
                     {
                         Vector2 direction = flagWP.Peek() - position;
-                        if(direction.X != 0 && direction.Y != 0)
-                            direction.Normalize();
+                        //if(direction.X != 0 && direction.Y != 0)
+                        direction.Normalize();
                         velocity = Vector2.Multiply(direction, speed);
                         position += velocity;
                         if (distanceToWP(position) < speed)
@@ -495,19 +501,15 @@ namespace super_mario
                     moveAnimation.Draw(spriteBatch, myEffect);
                 }
             }
-            if (activateGravity == true)
-                spriteBatch.DrawString(scoreFont, "True", new Vector2(Camera.Instance.Position.X + 16 * 5, 5), Color.White);
-            else
-                spriteBatch.DrawString(scoreFont, "False", new Vector2(Camera.Instance.Position.X + 16 * 5, 5), Color.White);
             spriteBatch.DrawString(scoreFont, "Score: " + score.ToString(), new Vector2(Camera.Instance.Position.X
                 + 16 * 11, 5), Color.White);
         }
 
         public void FlagMovement()
         {
-            flagWP.Enqueue(new Vector2(64 * 16 - 5, 12*16));
-            flagWP.Enqueue(new Vector2(66 * 16, 13 * 16));
-            flagWP.Enqueue(new Vector2(69 * 16, 13 * 16));
+            flagWP.Enqueue(new Vector2(68 * 16 - 5, 12*16));
+            flagWP.Enqueue(new Vector2(70 * 16, 13 * 16));
+            flagWP.Enqueue(new Vector2(73 * 16, 13 * 16));
         }
 
         public float distanceToWP(Vector2 pos)

@@ -256,3 +256,4 @@ C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\scoreFont.xnb
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\endFont.xnb
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\coin.xnb
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\starTheme.xnb

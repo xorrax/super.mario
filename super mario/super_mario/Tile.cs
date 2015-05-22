@@ -148,11 +148,11 @@ namespace super_mario
                         player.tileCol = true;
                     }
 
-                    if (player.SRect.Intersects(rect) && this.state == State.Solid && this.specials == Specials.Destroyable && player.Position.Y > position.Y && player.Velocity.Y < 0)
-                    {
-                        destroyed = true;
-                        player.Velocity = new Vector2(player.Velocity.X, 0);
-                    }
+                    //if (player.SRect.Intersects(rect) && this.state == State.Solid && this.specials == Specials.Destroyable && player.Position.Y > position.Y && player.Velocity.Y < 0)
+                    //{
+                    //    destroyed = true;
+                    //    player.Velocity = new Vector2(player.Velocity.X, 0);
+                    //}
                     if (specials == Specials.Flag)
                     {
                         FloatRect flagRect = new FloatRect(position.X + 7, position.Y, 2, 16);
@@ -181,6 +181,12 @@ namespace super_mario
                     {
                         destroyed = true;
                         player.Velocity = new Vector2(player.Velocity.X, 0);
+                    }
+                    if (player.BRect.Intersects(rect) && state == State.Solid && specials == Specials.Star && player.PrevPosition.Y > position.Y && player.Velocity.Y < 0 && prevPlayer.Top >= prevTile.Bottom)
+                    {
+                        activated = true;
+                        player.Velocity = new Vector2(player.Velocity.X, 0);
+                        player.tileCol = true;
                     }
                     if (specials == Specials.Flag)
                     {

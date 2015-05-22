@@ -60,7 +60,7 @@ namespace super_mario
             else
             {
                 menu.Draw(spriteBatch);
-                spriteBatch.DrawString(font1, text, new Vector2(50, 20), Color.White);
+                spriteBatch.DrawString(font1, text, new Vector2(75, 20), Color.White);
                 
             }
         }

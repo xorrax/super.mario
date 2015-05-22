@@ -38,6 +38,7 @@ Content\Fonts\scoreFont.xnb
 Content\Sound\coin.xnb
 Content\background.xnb
 Content\Fonts\endFont.xnb
+Content\Sound\starTheme.xnb
 Load\End.cme
 Load\Maps\Map1.cme
 Load\Menu.cme

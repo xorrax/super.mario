@@ -63,7 +63,7 @@ namespace super_mario
         {
             prevPos = position;
             moveAnimation.IsActive = true;
-            if (moveTimer >= 5)
+            if (moveTimer >= 4)
             {
                 direction = !direction;
                 moveTimer = 0f;

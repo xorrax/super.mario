@@ -20,16 +20,17 @@ namespace super_mario
             this.content = Content;
             this.input = Input;
             spawnPositions = new List<Vector2>();
-            spawnPositions.Add(new Vector2(10 * 16, 5 * 16));
+            spawnPositions.Add(new Vector2(4 * 16, 5 * 16));
+            spawnPositions.Add(new Vector2(16 * 16, 5 * 16));
         }
 
         public void Update(GameTime gameTime, Player player)
         {
             for (int i = 0; i < spawnPositions.Count; i++)
             {
-                if(player.Position.X - spawnPositions[i].X <= 50)
+                if(Math.Abs(player.Position.X - spawnPositions[i].X) <= 120)
                 {
-                    Enemy enemy = new Enemy(new Vector2(48, 208));
+                    Enemy enemy = new Enemy(new Vector2(spawnPositions[i].X, 208));
                     enemy.LoadContent(content, input);
                     enemyList.Add(enemy);
                     spawnPositions.RemoveAt(i);

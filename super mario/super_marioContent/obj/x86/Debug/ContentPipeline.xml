@@ -242,7 +242,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Player\bigLuigi.xnb</Output>
-      <Time>2015-03-20T15:00:43+01:00</Time>
+      <Time>2015-05-20T13:47:01+02:00</Time>
     </Item>
     <Item>
       <Source>Player\starMan.png</Source>
@@ -360,6 +360,15 @@
       <Options>None</Options>
       <Output>C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\endFont.xnb</Output>
       <Time>2015-04-29T12:55:03.4968939+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\starTheme.wav</Source>
+      <Name>Sound\starTheme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\starTheme.xnb</Output>
+      <Time>2015-05-20T15:48:22.3936969+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
