@@ -66,15 +66,15 @@ namespace super_mario
         public override void Update(GameTime gameTime)
         {
             inputManager.Update();
-            Animation a = animation[imageNumber];
+            //Animation a = animation[imageNumber];
             fadeAnimation.Update(gameTime);
 
             
 
-            if (animation[imageNumber].Alpha == 0.0f)
-                imageNumber++;
-
-            if (imageNumber >= animation.Count - 1 || inputManager.KeyPressed(Keys.X))
+            //if (animation[imageNumber].Alpha == 0.0f)
+            //    imageNumber++;
+            //imageNumber >= animation.Count - 1 || 
+            if (inputManager.KeyPressed(Keys.X))
             {
                 ScreenManager.Instance.AddScreen(new TitleScreen(), inputManager);
             }

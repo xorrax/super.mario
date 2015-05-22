@@ -23,7 +23,7 @@ namespace super_mario
         Vector2 timerPos;
         EnemyHandler enemyHandler;
 
-        float gameTimer = 33f;
+        float gameTimer;
         float overworldTimer = 0f;
         float mpTimer = 0f;
         bool playedT = false;
@@ -52,6 +52,7 @@ namespace super_mario
             font = this.content.Load<SpriteFont>("Fonts/timeFont");
             timePointsAdded = false;
             loseTimer = 0;
+            gameTimer = 45f;
 
             LoadObjects(content);
         }
@@ -147,7 +148,7 @@ namespace super_mario
 
             timerPos = new Vector2(Camera.Instance.Position.X + 5, 5);
 
-            if (gameTimer <= 30 && playedT == false)
+            if (gameTimer <= 20 && playedT == false)
             {
                 timeWarning.Play();
                 musicYes.Pause();

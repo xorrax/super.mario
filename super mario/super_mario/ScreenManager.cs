@@ -15,7 +15,7 @@ namespace super_mario
 
         GameScreen currentScreen;
         GameScreen newScreen;
-        GameScreen savedScreen;
+        public GameScreen savedScreen;
 
         ContentManager content;
 

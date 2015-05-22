@@ -210,7 +210,6 @@ C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\stage_clear.xnb
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.exe
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.pdb
-C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.csprojResolveAssemblyReference.cache
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.exe
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.pdb
@@ -257,3 +256,8 @@ C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\endFont.xnb
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\coin.xnb
 C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\starTheme.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\starTheme.xnb
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.exe.manifest
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.application
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.exe.manifest
+C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.application

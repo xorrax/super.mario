@@ -57,10 +57,5 @@ namespace super_mario
             spriteBatch.End();
             base.Draw(gameTime);
         }
-
-        public GraphicsDevice GraphicsDevice
-        {
-            get { return graphics.GraphicsDevice; }
-        }
     }
 }

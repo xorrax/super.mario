@@ -16,6 +16,7 @@ namespace super_mario
         Vector2 indicatorPos = Vector2.Zero;
         Vector2 selectorPos = new Vector2(16 * 12, 1);
         Texture2D lowerImage, higherImage, volumeBackground, volumeIndicator, mlTexture, selectionTexture;
+        SpriteFont volumeFont;
 
         public override void LoadContent(ContentManager Content, InputManager inputManager)
         {
@@ -28,6 +29,7 @@ namespace super_mario
             volumeIndicator = this.content.Load<Texture2D>("Options/Volume/volumeInd");
             mlTexture = this.content.Load<Texture2D>("Options/mlTexture");
             selectionTexture = this.content.Load<Texture2D>("Options/selector");
+            volumeFont = this.content.Load<SpriteFont>("Fonts/Font1");
         }
 
         public override void UnloadContent()
@@ -63,7 +65,10 @@ namespace super_mario
 
             if(inputManager.KeyPressed(Keys.O))
             {
-                ScreenManager.Instance.AddScreenBack(inputManager);
+                if (ScreenManager.Instance.savedScreen == null)
+                    ScreenManager.Instance.AddScreen(new GameScreen(), inputManager);
+                else
+                    ScreenManager.Instance.AddScreenBack(inputManager);
             }
 
 
@@ -100,6 +105,7 @@ namespace super_mario
             spriteBatch.Draw(selectionTexture, selectorPos, Color.White);
 
             //Volume
+            spriteBatch.DrawString(volumeFont, "Volume", new Vector2(6 * 16 - 1 + Camera.Instance.Position.X, 4 * 16 - 1), Color.White);
             spriteBatch.Draw(volumeBackground, new Vector2(5 * 16 - 1 + Camera.Instance.Position.X, 6 * 16 - 1), Color.White);
             if(indicatorPos != Vector2.Zero)
                 spriteBatch.Draw(volumeIndicator, indicatorPos, Color.White);
