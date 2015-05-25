@@ -180,7 +180,7 @@ namespace super_mario
             position = Vector2.Zero;
 
             fileManager = new FileManager();
-            if (Player.Instance.InCastle == true && Player.Instance.flagUp == true || Player.Instance.end == true)
+            if (Player.Instance.end == true)
             {
                 Player.Instance.end = false;
                 fileManager.LoadContent("Load/End.cme", attributes, contents, id);

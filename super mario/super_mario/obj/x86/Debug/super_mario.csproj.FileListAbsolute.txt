@@ -261,3 +261,8 @@ C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.application
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.exe.manifest
 C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.application
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.exe.manifest
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\super_mario.application
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.exe.manifest
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\obj\x86\Debug\super_mario.application
+C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\introFont.xnb

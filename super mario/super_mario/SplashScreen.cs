@@ -12,7 +12,7 @@ namespace super_mario
 {
     public class SplashScreen : GameScreen
     {
-        SpriteFont font;
+        SpriteFont font, introFont;
         List<Animation> animation;
         List<Texture2D> images;
 
@@ -26,6 +26,8 @@ namespace super_mario
             base.LoadContent(Content, inputManager);
             if (font == null)
                 font = this.content.Load<SpriteFont>("Fonts/Font1");
+
+            introFont = this.content.Load<SpriteFont>("Fonts/introFont");
 
             imageNumber = 0;
             fileManager = new FileManager();
@@ -74,7 +76,7 @@ namespace super_mario
             //if (animation[imageNumber].Alpha == 0.0f)
             //    imageNumber++;
             //imageNumber >= animation.Count - 1 || 
-            if (inputManager.KeyPressed(Keys.X))
+            if (inputManager.KeyPressed(Keys.X, Keys.Enter))
             {
                 ScreenManager.Instance.AddScreen(new TitleScreen(), inputManager);
             }
@@ -83,6 +85,7 @@ namespace super_mario
         public override void Draw(SpriteBatch spriteBatch)
         {
             animation[imageNumber].Draw(spriteBatch);
+            spriteBatch.DrawString(introFont, "Press X or Enter to continue", new Vector2(40, 14 * 16), Color.Black);
         }
     }
 }

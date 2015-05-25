@@ -68,7 +68,10 @@ namespace super_mario
                 if (ScreenManager.Instance.savedScreen == null)
                     ScreenManager.Instance.AddScreen(new GameScreen(), inputManager);
                 else
+                {
                     ScreenManager.Instance.AddScreenBack(inputManager);
+                    
+                }
             }
 
 

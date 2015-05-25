@@ -29,7 +29,7 @@ namespace super_mario
         public bool setPos;
         public bool destroyed = false;
         public bool activated = false;
-
+        bool col, prevCol;
         Animation animation;
 
         public Vector2 Position
@@ -84,12 +84,14 @@ namespace super_mario
             mushroomOnTile = false;
             velocity = Vector2.Zero;
             setPos = false;
+            col = false;
         }
-
         public void Update(GameTime gameTime, Player player, Layer layer, ObjectHandler oh)
         {
             counter++;
             prevPosition = position;
+            prevCol = col;
+            col = false;
 
             if (counter >= range)
             {
@@ -211,30 +213,7 @@ namespace super_mario
             }
 
 
-            if (playerOnTile)
-            {
-                if (!player.SyncTilePosition)
-                {
-                    player.Position += velocity;
-                    player.SyncTilePosition = true;
-                }
-                if (player.bigMario == false)
-                {
-                    if (player.SRect.Right < rect.Left || player.SRect.Left > rect.Right || player.SRect.Bottom != rect.Top)
-                    {
-                        playerOnTile = false;
-                        player.ActivateGravity = true;
-                    }
-                }
-                else if (player.bigMario == true)
-                {
-                    if (player.BRect.Right < rect.Left || player.BRect.Left > rect.Right || player.BRect.Bottom != rect.Top)
-                    {
-                        playerOnTile = false;
-                        player.ActivateGravity = true;
-                    }
-                }
-            }
+            
             //Castle
             //if (player.bigMario == true)
             //{
@@ -362,6 +341,7 @@ namespace super_mario
                         player.jumping = true;
                         player.Position = new Vector2(player.Position.X, position.Y - 16);
                         player.ActivateGravity = false;
+
                         playerOnTile = true;
                     }
                     else if (player.SRect.Top <= rect.Bottom && prevPlayer.Top >= prevTile.Bottom)
@@ -384,7 +364,9 @@ namespace super_mario
                     {
                         player.Position -= player.Velocity;
                     }
+                    
                 }
+        
             }
             else if (player.bigMario == true)
             {
@@ -404,11 +386,13 @@ namespace super_mario
                         player.Position = new Vector2(player.Position.X, position.Y + Layer.TileDimensions.Y);
                         player.Velocity = new Vector2(player.Velocity.X, 0);
                         player.ActivateGravity = true;
+
                     }
                     else if (player.BRect.Left <= rect.Left && prevPlayer.Left <= prevTile.Left)
                     {
                         player.Position = new Vector2(prevPlayer.Left, player.Position.Y - velocity.Y);
                         player.ActivateGravity = true;
+
                     }
                     else if (player.BRect.Right >= rect.Right && prevPlayer.Right >= prevTile.Right)
                     {
@@ -418,6 +402,33 @@ namespace super_mario
                     else
                     {
                         player.Position -= player.Velocity;
+                    }
+                }
+            }
+
+            if (playerOnTile)
+            {
+                if (!player.SyncTilePosition)
+                {
+                    player.Position += velocity;
+                    player.SyncTilePosition = true;
+                }
+
+                if (player.bigMario == false)
+                {
+                    if (player.SRect.Right < rect.Left || player.SRect.Left > rect.Right || player.SRect.Bottom != rect.Top)
+                    {
+
+                        playerOnTile = false;
+                        player.ActivateGravity = true;
+                    }
+                }
+                else if (player.bigMario == true)
+                {
+                    if (player.BRect.Right < rect.Left || player.BRect.Left > rect.Right || player.BRect.Bottom != rect.Top)
+                    {
+                        playerOnTile = false;
+                        player.ActivateGravity = true;
                     }
                 }
             }

@@ -35,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Splash\image1.xnb</Output>
-      <Time>2015-02-24T17:45:12+01:00</Time>
+      <Time>2015-05-22T20:30:58+02:00</Time>
     </Item>
     <Item>
       <Source>Player\bigMario.png</Source>
@@ -369,6 +369,15 @@
       <Options>None</Options>
       <Output>C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Sound\starTheme.xnb</Output>
       <Time>2015-05-20T15:48:22.3936969+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\introFont.spritefont</Source>
+      <Name>Fonts\introFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\oliver.nilsson7\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\introFont.xnb</Output>
+      <Time>2015-05-23T01:44:11.076661+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

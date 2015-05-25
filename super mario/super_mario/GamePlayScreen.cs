@@ -174,15 +174,17 @@ namespace super_mario
                 enemyHandler.Update(gameTime, player);
             }
 
+            if (player.end == false)
+            {
+                player.Update(gameTime, inputManager, map.layer1);
+            }
+
             if (inputManager.KeyPressed(Keys.O))
             {
                 musicYes.Pause();
                 ScreenManager.Instance.AddScreenKeep(new OptionsScreen(), inputManager);
             }
-            if (player.end == false)
-            {
-                player.Update(gameTime, inputManager, map.layer1);
-            }
+            
         }
 
         public override void Draw(SpriteBatch spriteBatch)
