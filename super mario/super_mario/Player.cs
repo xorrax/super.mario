@@ -17,7 +17,7 @@ namespace super_mario
         float jumpSpeed = 0.2f;
         public float tileTimer = 0;
         bool walkingRight, walkingLeft, lastTransition, flagA, flagC, prevML, flagSetFrame, inCastle, diePlayed, setFrame;
-        public bool castle, flagDown, end, scPlayed, flagUp, bigMario, transition, jumping, jumpingRight, jumpingLeft, starMan, flagB, onFlag, tileCol, setPos;
+        public bool castle, flagDown, end, scPlayed, flagUp, bigMario, transition, jumpingRight, jumpingLeft, starMan, flagB, onFlag, tileCol, setPos;
         float transitionTimer = 0f;
         float transitionValue = 0f;
         float flagT;
@@ -73,7 +73,6 @@ namespace super_mario
             gameOver = this.content.Load<SoundEffect>("Sound/gameover");
             stageClear = this.content.Load<SoundEffect>("Sound/stageClear");
             scoreFont = this.content.Load<SpriteFont>("Fonts/scoreFont");
-            jumping = false;
             scPlayed = false;
             flagDown = false;
             starMan = false;

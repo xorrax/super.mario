@@ -29,7 +29,6 @@ namespace super_mario
         public bool setPos;
         public bool destroyed = false;
         public bool activated = false;
-        bool col, prevCol;
         Animation animation;
 
         public Vector2 Position
@@ -84,14 +83,11 @@ namespace super_mario
             mushroomOnTile = false;
             velocity = Vector2.Zero;
             setPos = false;
-            col = false;
         }
         public void Update(GameTime gameTime, Player player, Layer layer, ObjectHandler oh)
         {
             counter++;
             prevPosition = position;
-            prevCol = col;
-            col = false;
 
             if (counter >= range)
             {
@@ -338,7 +334,6 @@ namespace super_mario
                     {
                         player.jumpingRight = false;
                         player.jumpingLeft = false;
-                        player.jumping = true;
                         player.Position = new Vector2(player.Position.X, position.Y - 16);
                         player.ActivateGravity = false;
 
@@ -364,7 +359,7 @@ namespace super_mario
                     {
                         player.Position -= player.Velocity;
                     }
-                    
+
                 }
         
             }
@@ -376,7 +371,6 @@ namespace super_mario
                     {
                         player.jumpingRight = false;
                         player.jumpingLeft = false;
-                        player.jumping = true;
                         player.Position = new Vector2(player.Position.X, position.Y - 32);
                         player.ActivateGravity = false;
                         playerOnTile = true;

@@ -168,16 +168,19 @@ namespace super_mario
                 musicYes.Stop();
             }
 
+
+            if (player.end == false)
+            {
+                player.Update(gameTime, inputManager, map.layer1);
+            }
+
             if (player.transition == false && player.end == false)
             {
                 map.Update(gameTime, player);
                 enemyHandler.Update(gameTime, player);
             }
 
-            if (player.end == false)
-            {
-                player.Update(gameTime, inputManager, map.layer1);
-            }
+            
 
             if (inputManager.KeyPressed(Keys.O))
             {
