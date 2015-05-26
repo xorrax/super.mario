@@ -16,7 +16,7 @@ namespace super_mario
         SpriteFont scoreFont;
         float jumpSpeed = 0.2f;
         public float tileTimer = 0;
-        bool walkingRight, walkingLeft, lastTransition, flagA, flagC, prevML, flagSetFrame, inCastle, diePlayed, setFrame;
+        bool walkingRight, walkingLeft, lastTransition, flagA, flagC, prevML, flagSetFrame, inCastle, diePlayed, setFrame, hit;
         public bool castle, flagDown, end, scPlayed, flagUp, bigMario, transition, jumpingRight, jumpingLeft, starMan, flagB, onFlag, tileCol, setPos;
         float transitionTimer = 0f;
         float transitionValue = 0f;
@@ -24,7 +24,7 @@ namespace super_mario
         Matrix world; 
         int invertValue = 0;
         float starTimer = 0;
-
+        float timer = 0;
 
         public int score = 0;
 
@@ -44,6 +44,12 @@ namespace super_mario
         {
             get { return inCastle; }
             set { inCastle = value; }
+        }
+
+        public bool Hit
+        {
+            get { return hit; }
+            set { hit = value; }
         }
 
         public static Player Instance
@@ -87,6 +93,7 @@ namespace super_mario
             diePlayed = false;
             setFrame = false;
             end = false;
+            hit = false;
 
             instance = this;
 
@@ -289,6 +296,18 @@ namespace super_mario
                 moveAnimation.Position = position;
                 moveAnimation.Update(gameTime);
                 //----------
+
+                //Hit
+                if (hit == true)
+                {
+                    timer += (float)gameTime.ElapsedGameTime.TotalSeconds;
+
+                    if (timer >= 1f)
+                    {
+                        hit = false;
+                        timer = 0;
+                    }
+                }
 
                 //Transition
                 if (transition == true)
@@ -526,7 +545,6 @@ namespace super_mario
             }
             spriteBatch.DrawString(scoreFont, "Score: " + score.ToString(), new Vector2(Camera.Instance.Position.X
                 + 16 * 11, 5), Color.White);
-            spriteBatch.DrawString(scoreFont, activateGravity.ToString(), new Vector2(Camera.Instance.Position.X + 16 * 4, 5), Color.White);
         }
 
         public void FlagMovement()

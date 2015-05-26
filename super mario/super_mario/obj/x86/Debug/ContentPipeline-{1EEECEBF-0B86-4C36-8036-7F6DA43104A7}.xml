@@ -370,6 +370,15 @@
       <Output>C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\InvertColor.xnb</Output>
       <Time>2015-04-01T14:04:37+02:00</Time>
     </Item>
+    <Item>
+      <Source>Fonts\introFont.spritefont</Source>
+      <Name>Fonts\introFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Nilsson\Dropbox\Skol arbete\digdig\super mario 11.3\super mario\super_mario\bin\x86\Debug\Content\Fonts\introFont.xnb</Output>
+      <Time>2015-05-23T01:44:11+02:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{1EEECEBF-0B86-4C36-8036-7F6DA43104A7}</ContentProjectGUID>

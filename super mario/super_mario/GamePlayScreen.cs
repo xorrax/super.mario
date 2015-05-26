@@ -169,10 +169,7 @@ namespace super_mario
             }
 
 
-            if (player.end == false)
-            {
-                player.Update(gameTime, inputManager, map.layer1);
-            }
+            
 
             if (player.transition == false && player.end == false)
             {
@@ -180,7 +177,10 @@ namespace super_mario
                 enemyHandler.Update(gameTime, player);
             }
 
-            
+            if (player.end == false)
+            {
+                player.Update(gameTime, inputManager, map.layer1);
+            }
 
             if (inputManager.KeyPressed(Keys.O))
             {

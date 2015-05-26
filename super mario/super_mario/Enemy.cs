@@ -89,12 +89,11 @@ namespace super_mario
             FloatRect prevEnemy = new FloatRect(PrevPosition.X, PrevPosition.Y, 16, 16);
             if (player.starMan == false)
             {
-
                 if (player.bigMario == false)
                 {
                     if (player.SRect.Intersects(this.SRect) && stomped == false)
                     {
-                        if (player.SRect.Bottom >= SRect.Top && prevSPlayer.Bottom <= prevEnemy.Top)
+                        if (player.SRect.Bottom >= SRect.Top && prevSPlayer.Bottom <= prevEnemy.Top && player.Hit == false)
                         {
                             stomped = true;
                             stomp.Play();
@@ -104,12 +103,16 @@ namespace super_mario
                         else if (player.SRect.Left <= this.SRect.Left && prevSPlayer.Left <= prevEnemy.Left)
                         {
                             player.Position = new Vector2(prevSPlayer.Left, player.Position.Y - velocity.Y);
-                            player.Health = 0;
+                            if(player.Hit == false)
+                                player.Health = 0;
+                            player.Hit = true;
                         }
                         else if (player.SRect.Right >= this.SRect.Right && prevSPlayer.Right >= prevEnemy.Right)
                         {
                             player.Position = new Vector2(prevSPlayer.Left, player.Position.Y - velocity.Y);
-                            player.Health = 0;
+                            if(player.Hit == false)
+                                player.Health = 0;
+                            player.Hit = true;
                         }
 
                     }
@@ -118,7 +121,7 @@ namespace super_mario
                 {
                     if (player.BRect.Intersects(this.SRect) && stomped == false)
                     {
-                        if (player.BRect.Bottom >= SRect.Top && prevBPlayer.Bottom <= prevEnemy.Top)
+                        if (player.BRect.Bottom >= SRect.Top && prevBPlayer.Bottom <= prevEnemy.Top && player.Hit == false)
                         {
                             stomped = true;
                             stomp.Play();
@@ -128,12 +131,18 @@ namespace super_mario
                         else if (player.BRect.Left <= this.SRect.Left && prevBPlayer.Left <= prevEnemy.Left)
                         {
                             player.Position = new Vector2(prevBPlayer.Left, player.Position.Y);
-                            player.transition = true;
+                            if(player.Hit == false)
+                                player.transition = true;
+
+                            player.Hit = true;
                         }
                         else if (player.BRect.Right >= this.SRect.Right && prevBPlayer.Right >= prevEnemy.Right)
                         {
                             player.Position = new Vector2(prevBPlayer.Left, player.Position.Y);
-                            player.transition = true;
+                            if(player.Hit == false)
+                                player.transition = true;
+
+                            player.Hit = true;
                         }
                     }
                 }

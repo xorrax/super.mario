@@ -326,6 +326,32 @@ namespace super_mario
             }
 
             //------
+            if (playerOnTile)
+            {
+                if (!player.SyncTilePosition)
+                {
+                    //player.Position += velocity;
+                    player.SyncTilePosition = true;
+                }
+
+                if (player.bigMario == false)
+                {
+                    if (player.SRect.Right < rect.Left || player.SRect.Left > rect.Right || player.SRect.Bottom != rect.Top)
+                    {
+
+                        playerOnTile = false;
+                        player.ActivateGravity = true;
+                    }
+                }
+                else if (player.bigMario == true)
+                {
+                    if (player.BRect.Right < rect.Left || player.BRect.Left > rect.Right || player.BRect.Bottom != rect.Top)
+                    {
+                        playerOnTile = false;
+                        player.ActivateGravity = true;
+                    }
+                }
+            }
             if (player.bigMario == false)
             {
                 if (player.SRect.Intersects(rect) && state == State.Solid)
@@ -400,32 +426,7 @@ namespace super_mario
                 }
             }
 
-            if (playerOnTile)
-            {
-                if (!player.SyncTilePosition)
-                {
-                    player.Position += velocity;
-                    player.SyncTilePosition = true;
-                }
-
-                if (player.bigMario == false)
-                {
-                    if (player.SRect.Right < rect.Left || player.SRect.Left > rect.Right || player.SRect.Bottom != rect.Top)
-                    {
-
-                        playerOnTile = false;
-                        player.ActivateGravity = true;
-                    }
-                }
-                else if (player.bigMario == true)
-                {
-                    if (player.BRect.Right < rect.Left || player.BRect.Left > rect.Right || player.BRect.Bottom != rect.Top)
-                    {
-                        playerOnTile = false;
-                        player.ActivateGravity = true;
-                    }
-                }
-            }
+            
 
             //Coin
             if (player.bigMario == true)
