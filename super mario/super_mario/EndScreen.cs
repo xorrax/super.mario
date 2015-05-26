@@ -24,7 +24,7 @@ namespace super_mario
             win = false;
             Camera.Instance.SetCameraPoint(new Vector2(0, 0));
 
-            if (Player.Instance.flagUp == true && Player.Instance.InCastle == true)
+            if (Player.Instance.end == true && Player.Instance.InCastle == true)
                 text = "Level cleared";
             else
                 text = "You died";
@@ -36,7 +36,7 @@ namespace super_mario
         public override void Update(GameTime gameTime)
         {
             inputManager.Update();
-            if (Player.Instance.InCastle == true && Player.Instance.flagUp)
+            if (Player.Instance.InCastle == true)
             {
                 Win();
                 menu.Update(gameTime, inputManager);

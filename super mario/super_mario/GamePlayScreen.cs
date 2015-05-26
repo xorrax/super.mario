@@ -79,25 +79,28 @@ namespace super_mario
                 LoadObjects(content);
             }
 
-            if (player.castle == true && timePointsAdded == false)
-            {
-                int gtP = (int)Convert.ToInt64(gameTimer);
-                player.score += gtP * 3;
-                timePointsAdded = true;
-            }
+            
             if (player.end == true)
             {
-
-                musicYes.Pause();
-                loseTimer += (float)gameTime.ElapsedGameTime.TotalSeconds;
-
-                if (loseTimer >= 2)
+                if (player.castle == true && timePointsAdded == false)
                 {
-                    ScreenManager.Instance.AddScreen(new EndScreen(), inputManager);
+                    int gtP = (int)Convert.ToInt64(gameTimer);
+                    player.score += gtP * 3;
+                    timePointsAdded = true;
+                }
+                else
+                {
+                    musicYes.Pause();
+                    loseTimer += (float)gameTime.ElapsedGameTime.TotalSeconds;
+
+                    if (loseTimer >= 2)
+                    {
+                        ScreenManager.Instance.AddScreen(new EndScreen(), inputManager);
+                    }
                 }
             }
 
-            if(player.flagUp == true && timePointsAdded == true)
+            if(player.end == true && timePointsAdded == true)
             {
                 ScreenManager.Instance.AddScreen(new EndScreen(), inputManager); 
             }
